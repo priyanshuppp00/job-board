@@ -75,6 +75,20 @@ The frontend will run on `http://localhost:3000` (or as indicated in the termina
 
 ### Frontend
 
+![Screenshot 2025-05-01 185229](https://github.com/user-attachments/assets/58c7d581-b09a-4164-9021-6ff3a14463b1)
+
+![Screenshot 2025-05-01 185240](https://github.com/user-attachments/assets/78859eea-26ce-4ded-9ea5-db58a8d28205)
+
+![Screenshot 2025-05-01 185252](https://github.com/user-attachments/assets/636703f6-e570-4225-95ac-5eab20685cef)
+
+![Screenshot 2025-05-01 185302](https://github.com/user-attachments/assets/2859fc0a-8197-46f1-b130-5b64fd5846fb)
+
+![Screenshot 2025-05-01 185324](https://github.com/user-attachments/assets/5375a820-2385-4725-84ed-db88d6cb1db4)
+
+![Screenshot 2025-05-01 185333](https://github.com/user-attachments/assets/b4255159-0cdc-4b6f-95eb-1b64254d9213)
+
+![Screenshot 2025-05-01 185346](https://github.com/user-attachments/assets/1695f529-65b4-41a1-a955-55127a74ac04)
+
 1. In the `job-board-frontend` directory, build the production files:
 
 ```bash
